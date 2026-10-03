@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: iot-playground
-        image: shadowaker/iot-app:v2
+        image: shadowaker/iot-app:v3
         ports:
         - containerPort: 8888
 ---
